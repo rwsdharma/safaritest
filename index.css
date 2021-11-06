@@ -12,20 +12,6 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-.card {
-  background: #fdfdfd;
-  border-radius: 4px;
-  height: 85vh;
-  width: 80vw;
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 1em;
-  overflow: hidden;
-}
 
 @media only screen and (min-width: 1000px) {
   .card {
@@ -49,9 +35,7 @@ body {
   }
 }
 
-img.birthday {
-  max-height: 40vh;
-}
+
 
 .text {
   padding: 1em;
